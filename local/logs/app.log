@@ -1,0 +1,220 @@
+2024-04-13 10:19:44,937 - app - INFO - Program started
+2024-04-13 10:20:04,747 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'Can you tell me a story in less than 50 words?'}
+2024-04-13 10:20:05,199 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:20:05,200 - app - INFO - Text chunker started
+2024-04-13 10:20:05,201 - app - INFO - Send text started
+2024-04-13 10:20:05,201 - app - INFO - Listen started
+2024-04-13 10:20:05,201 - app - INFO - Stream started
+2024-04-13 10:20:05,204 - app - INFO - Starting mpv process
+2024-04-13 10:20:07,717 - app - INFO - Received end of OpenAI response
+2024-04-13 10:20:07,719 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:20:07,719 - app - INFO - Text chunker finished
+2024-04-13 10:20:07,720 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:20:07,720 - app - INFO - Send text finished
+2024-04-13 10:20:24,875 - app - INFO - Received final audio response
+2024-04-13 10:20:24,875 - app - INFO - Listen finished
+2024-04-13 10:20:31,271 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:20:31,272 - app - INFO - Stopping mpv process...
+2024-04-13 10:20:39,367 - app - INFO - Stopped mpv process
+2024-04-13 10:20:39,368 - app - INFO - Stream finished
+2024-04-13 10:20:48,009 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'How about in japanese this time?'}
+2024-04-13 10:20:48,289 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:20:48,289 - app - INFO - Text chunker started
+2024-04-13 10:20:48,290 - app - INFO - Send text started
+2024-04-13 10:20:48,291 - app - INFO - Listen started
+2024-04-13 10:20:48,291 - app - INFO - Stream started
+2024-04-13 10:20:48,292 - app - INFO - Starting mpv process
+2024-04-13 10:20:53,020 - app - INFO - Received end of OpenAI response
+2024-04-13 10:20:53,021 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:20:53,021 - app - INFO - Text chunker finished
+2024-04-13 10:20:53,022 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:20:53,022 - app - INFO - Send text finished
+2024-04-13 10:21:16,761 - app - INFO - Received final audio response
+2024-04-13 10:21:16,761 - app - INFO - Listen finished
+2024-04-13 10:21:24,959 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:21:24,960 - app - INFO - Stopping mpv process...
+2024-04-13 10:21:33,063 - app - INFO - Stopped mpv process
+2024-04-13 10:21:33,063 - app - INFO - Stream finished
+2024-04-13 10:22:14,636 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'Can you tell a different short story in spanish? Also can you format your response to show what each word means in english?'}
+2024-04-13 10:22:14,922 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:22:14,922 - app - INFO - Text chunker started
+2024-04-13 10:22:14,923 - app - INFO - Send text started
+2024-04-13 10:22:14,923 - app - INFO - Listen started
+2024-04-13 10:22:14,923 - app - INFO - Stream started
+2024-04-13 10:22:14,924 - app - INFO - Starting mpv process
+2024-04-13 10:22:18,101 - app - INFO - Received end of OpenAI response
+2024-04-13 10:22:18,102 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:22:18,103 - app - INFO - Text chunker finished
+2024-04-13 10:22:18,104 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:22:18,104 - app - INFO - Send text finished
+2024-04-13 10:22:33,270 - app - INFO - Received final audio response
+2024-04-13 10:22:33,270 - app - INFO - Listen finished
+2024-04-13 10:22:36,734 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:22:36,734 - app - INFO - Stopping mpv process...
+2024-04-13 10:22:43,270 - app - INFO - Stopped mpv process
+2024-04-13 10:22:43,270 - app - INFO - Stream finished
+2024-04-13 10:23:07,034 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'If I wanted to learn spanish, could you come up with a study plan for me?'}
+2024-04-13 10:23:07,370 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:23:07,370 - app - INFO - Text chunker started
+2024-04-13 10:23:07,370 - app - INFO - Send text started
+2024-04-13 10:23:07,371 - app - INFO - Listen started
+2024-04-13 10:23:07,371 - app - INFO - Stream started
+2024-04-13 10:23:07,371 - app - INFO - Starting mpv process
+2024-04-13 10:23:19,163 - app - INFO - Received end of OpenAI response
+2024-04-13 10:23:19,179 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:23:19,179 - app - INFO - Text chunker finished
+2024-04-13 10:23:19,191 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:23:19,191 - app - INFO - Send text finished
+2024-04-13 10:24:55,736 - app - INFO - Received final audio response
+2024-04-13 10:24:55,737 - app - INFO - Listen finished
+2024-04-13 10:25:12,113 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:25:12,115 - app - INFO - Stopping mpv process...
+2024-04-13 10:25:19,244 - app - INFO - Stopped mpv process
+2024-04-13 10:25:19,244 - app - INFO - Stream finished
+2024-04-13 10:27:40,190 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'Gotcha thanks, back to the stories. Can you tell me a story about a character that identifies the personal challenges in their lives and overcomes them? It cna be real or fictional. Also can you make it around 500 words long?'}
+2024-04-13 10:27:40,544 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:27:40,545 - app - INFO - Text chunker started
+2024-04-13 10:27:40,546 - app - INFO - Send text started
+2024-04-13 10:27:40,547 - app - INFO - Listen started
+2024-04-13 10:27:40,547 - app - INFO - Stream started
+2024-04-13 10:27:40,549 - app - INFO - Starting mpv process
+2024-04-13 10:28:05,032 - app - INFO - Received end of OpenAI response
+2024-04-13 10:28:05,034 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:28:05,034 - app - INFO - Text chunker finished
+2024-04-13 10:28:05,035 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:28:05,036 - app - INFO - Send text finished
+2024-04-13 10:30:11,060 - app - WARNING - WebSocket connection closed unexpectedly: sent 1011 (internal error) keepalive ping timeout; no close frame received. Retrying...
+2024-04-13 10:30:11,309 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:30:11,310 - app - INFO - Text chunker started
+2024-04-13 10:30:11,321 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:30:11,322 - app - INFO - Text chunker finished
+2024-04-13 10:30:11,322 - app - INFO - Send text started
+2024-04-13 10:30:11,352 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:30:11,352 - app - INFO - Send text finished
+2024-04-13 10:30:11,352 - app - INFO - Listen started
+2024-04-13 10:30:11,352 - app - INFO - Stream started
+2024-04-13 10:31:43,507 - app - INFO - Received final audio response
+2024-04-13 10:31:43,507 - app - INFO - Listen finished
+2024-04-13 10:31:47,600 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:31:47,601 - app - INFO - Stopping mpv process...
+2024-04-13 10:31:56,809 - app - INFO - Stopped mpv process
+2024-04-13 10:31:56,809 - app - INFO - Stream finished
+2024-04-13 10:33:08,819 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'Awesome, well done. Now, can you give me a summary of in 500 words or less?'}
+2024-04-13 10:33:09,105 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:33:09,105 - app - INFO - Text chunker started
+2024-04-13 10:33:09,107 - app - INFO - Send text started
+2024-04-13 10:33:09,107 - app - INFO - Listen started
+2024-04-13 10:33:09,108 - app - INFO - Stream started
+2024-04-13 10:33:09,109 - app - INFO - Starting mpv process
+2024-04-13 10:33:19,371 - app - INFO - Received end of OpenAI response
+2024-04-13 10:33:19,373 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:33:19,373 - app - INFO - Text chunker finished
+2024-04-13 10:33:19,374 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:33:19,374 - app - INFO - Send text finished
+2024-04-13 10:34:49,080 - app - INFO - Received final audio response
+2024-04-13 10:34:49,081 - app - INFO - Listen finished
+2024-04-13 10:34:53,173 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:34:53,174 - app - INFO - Stopping mpv process...
+2024-04-13 10:35:01,302 - app - INFO - Stopped mpv process
+2024-04-13 10:35:01,302 - app - INFO - Stream finished
+2024-04-13 10:35:57,357 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': "Nice, switching gears though. I'm a history buff can you tell me various fun facts relating to history in around 500 words?"}
+2024-04-13 10:35:57,748 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:35:57,749 - app - INFO - Text chunker started
+2024-04-13 10:35:57,750 - app - INFO - Send text started
+2024-04-13 10:35:57,751 - app - INFO - Listen started
+2024-04-13 10:35:57,751 - app - INFO - Stream started
+2024-04-13 10:35:57,752 - app - INFO - Starting mpv process
+2024-04-13 10:36:20,688 - app - INFO - Received end of OpenAI response
+2024-04-13 10:36:20,705 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:36:20,705 - app - INFO - Text chunker finished
+2024-04-13 10:36:20,718 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:36:20,719 - app - INFO - Send text finished
+2024-04-13 10:39:17,268 - app - INFO - Received final audio response
+2024-04-13 10:39:17,269 - app - INFO - Listen finished
+2024-04-13 10:39:21,361 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:39:21,363 - app - INFO - Stopping mpv process...
+2024-04-13 10:39:29,412 - app - INFO - Stopped mpv process
+2024-04-13 10:39:29,413 - app - INFO - Stream finished
+2024-04-13 10:41:09,647 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': "Wow, those were pretty cool. Switching to philosophy. What are some of the most important questions that a human being should ask, but typically don't? I'm interested because sometimes I'm unsure if my life is heading in the right direction and I'm curious as to what you have to say in regards to this."}
+2024-04-13 10:41:09,920 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:41:09,920 - app - INFO - Text chunker started
+2024-04-13 10:41:09,922 - app - INFO - Send text started
+2024-04-13 10:41:09,923 - app - INFO - Listen started
+2024-04-13 10:41:09,924 - app - INFO - Stream started
+2024-04-13 10:41:09,924 - app - INFO - Starting mpv process
+2024-04-13 10:41:29,424 - app - INFO - Received end of OpenAI response
+2024-04-13 10:41:29,457 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:41:29,458 - app - INFO - Text chunker finished
+2024-04-13 10:41:29,468 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:41:29,468 - app - INFO - Send text finished
+2024-04-13 10:43:36,275 - app - WARNING - WebSocket connection closed unexpectedly: sent 1011 (internal error) keepalive ping timeout; no close frame received. Retrying...
+2024-04-13 10:43:36,631 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:43:36,632 - app - INFO - Text chunker started
+2024-04-13 10:43:36,637 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:43:36,637 - app - INFO - Text chunker finished
+2024-04-13 10:43:36,638 - app - INFO - Send text started
+2024-04-13 10:43:36,652 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:43:36,652 - app - INFO - Send text finished
+2024-04-13 10:43:36,652 - app - INFO - Listen started
+2024-04-13 10:43:36,652 - app - INFO - Stream started
+2024-04-13 10:44:07,222 - app - INFO - Received final audio response
+2024-04-13 10:44:07,222 - app - INFO - Listen finished
+2024-04-13 10:44:19,495 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:44:19,495 - app - INFO - Stopping mpv process...
+2024-04-13 10:44:25,372 - app - INFO - Stopped mpv process
+2024-04-13 10:44:25,372 - app - INFO - Stream finished
+2024-04-13 10:50:12,987 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': 'Wow, those do indeed ring deep, thank you my philosophy sensei! Back to stories, can you give me a summary of how Jeff Bezos founded Amazon in around 500 words?'}
+2024-04-13 10:50:13,346 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:50:13,346 - app - INFO - Text chunker started
+2024-04-13 10:50:13,348 - app - INFO - Send text started
+2024-04-13 10:50:13,349 - app - INFO - Listen started
+2024-04-13 10:50:13,350 - app - INFO - Stream started
+2024-04-13 10:50:13,351 - app - INFO - Starting mpv process
+2024-04-13 10:50:33,441 - app - INFO - Received end of OpenAI response
+2024-04-13 10:50:33,444 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:50:33,444 - app - INFO - Text chunker finished
+2024-04-13 10:50:33,445 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:50:33,446 - app - INFO - Send text finished
+2024-04-13 10:53:38,785 - app - INFO - Received final audio response
+2024-04-13 10:53:38,786 - app - INFO - Listen finished
+2024-04-13 10:53:42,878 - app - INFO - Stream reached end of audio queue
+2024-04-13 10:53:42,879 - app - INFO - Stopping mpv process...
+2024-04-13 10:53:48,576 - app - INFO - Stopped mpv process
+2024-04-13 10:53:48,577 - app - INFO - Stream finished
+2024-04-13 10:58:36,673 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': "Nice, switching gears now. I have an interesting problem for you regarding technology and AI. I understand that LLMs like yourself need to be prompted in order for a response to be generated. In a sense it is similar to the portion of a human's brain responsible for critical thinking. Once a problem has been a recognized, a person's criticial thinking cortex lights up to solve the problem and comes up with a response. In an effort to make an AI that more human like, is there a way to develope a program that observes the world and self prompts an LLM in order to understand and develop anunderstanding of the world around them?"}
+2024-04-13 10:58:37,025 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 10:58:37,026 - app - INFO - Text chunker started
+2024-04-13 10:58:37,027 - app - INFO - Send text started
+2024-04-13 10:58:37,027 - app - INFO - Listen started
+2024-04-13 10:58:37,028 - app - INFO - Stream started
+2024-04-13 10:58:37,030 - app - INFO - Starting mpv process
+2024-04-13 10:58:47,045 - app - INFO - Received end of OpenAI response
+2024-04-13 10:58:47,047 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 10:58:47,047 - app - INFO - Text chunker finished
+2024-04-13 10:58:47,048 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 10:58:47,048 - app - INFO - Send text finished
+2024-04-13 11:00:23,280 - app - INFO - Received final audio response
+2024-04-13 11:00:23,280 - app - INFO - Listen finished
+2024-04-13 11:00:31,447 - app - INFO - Stream reached end of audio queue
+2024-04-13 11:00:31,448 - app - INFO - Stopping mpv process...
+2024-04-13 11:00:39,553 - app - INFO - Stopped mpv process
+2024-04-13 11:00:39,553 - app - INFO - Stream finished
+2024-04-13 11:10:52,911 - app - INFO - Sending query to OpenAI: {'role': 'user', 'content': "Well thank you very much for an interesting conversation today. I'll be seeing you later!"}
+2024-04-13 11:10:53,230 - app - INFO - WebSocket connection established with ElevenLabs API.
+2024-04-13 11:10:53,231 - app - INFO - Text chunker started
+2024-04-13 11:10:53,232 - app - INFO - Send text started
+2024-04-13 11:10:53,233 - app - INFO - Listen started
+2024-04-13 11:10:53,234 - app - INFO - Stream started
+2024-04-13 11:10:53,235 - app - INFO - Starting mpv process
+2024-04-13 11:10:54,899 - app - INFO - Received end of OpenAI response
+2024-04-13 11:10:54,900 - app - INFO - Text chunker reached end of text queue.
+2024-04-13 11:10:54,901 - app - INFO - Text chunker finished
+2024-04-13 11:10:54,902 - app - INFO - Send text reached end of chunked text queue. Sending EOS signal.
+2024-04-13 11:10:54,902 - app - INFO - Send text finished
+2024-04-13 11:10:59,372 - app - INFO - Received final audio response
+2024-04-13 11:10:59,372 - app - INFO - Listen finished
+2024-04-13 11:10:59,372 - app - INFO - Stream reached end of audio queue
+2024-04-13 11:10:59,372 - app - INFO - Stopping mpv process...
+2024-04-13 11:11:07,483 - app - INFO - Stopped mpv process
+2024-04-13 11:11:07,483 - app - INFO - Stream finished
+2024-04-13 11:11:09,335 - app - INFO - Program finished

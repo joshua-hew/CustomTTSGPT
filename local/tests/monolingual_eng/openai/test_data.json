@@ -1,0 +1,69 @@
+[
+  {
+    "test_num": 0,
+    "query_template": "Hi ChatGPT, please only respond with the following text. Do not include anything else in your response: {text}",
+    "text": "Hello\nWorld",
+    "openai_output": [
+      "",
+      "Hello",
+      "\n",
+      "World"
+    ]
+  },
+  {
+    "test_num": 1,
+    "query_template": "Hi ChatGPT, please only respond with the following text. Do not include anything else in your response: {text}",
+    "text": "Hello\n\nWorld",
+    "openai_output": [
+      "",
+      "Hello",
+      "\n\n",
+      "World"
+    ]
+  },
+  {
+    "test_num": 2,
+    "query_template": "Hi ChatGPT, please only respond with the following text. Do not include anything else in your response: {text}",
+    "text": "Hello.\nWorld",
+    "openai_output": [
+      "",
+      "Hello",
+      ".",
+      " World"
+    ]
+  },
+  {
+    "test_num": 3,
+    "query_template": "Hi ChatGPT, please only respond with the following text. Do not include anything else in your response: {text}",
+    "text": "Hello...World",
+    "openai_output": [
+      "",
+      "Hello",
+      "...",
+      "World"
+    ]
+  },
+  {
+    "test_num": 4,
+    "query_template": "Hi ChatGPT, please only respond with the following text. Do not include anything else in your response: {text}",
+    "text": "Hello\tWorld",
+    "openai_output": [
+      "",
+      "Hello",
+      "\t",
+      "World"
+    ]
+  },
+  {
+    "test_num": 5,
+    "query_template": "Hi ChatGPT, please only respond with the following text. Do not include anything else in your response: {text}",
+    "text": "Hello\t\tWorld",
+    "openai_output": [
+      "",
+      "Hello",
+      "\t",
+      "\t",
+      "World"
+    ]
+  }
+]

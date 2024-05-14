@@ -1,0 +1,103 @@
+[
+  {
+    "isFinal": null,
+    "normalizedAlignment": {
+      "chars": [
+        " ",
+        "H",
+        "e",
+        "l",
+        "l",
+        "o",
+        " ",
+        "W",
+        "o",
+        "r",
+        "l",
+        "d",
+        " "
+      ],
+      "charStartTimesMs": [
+        0,
+        35,
+        70,
+        139,
+        174,
+        232,
+        313,
+        372,
+        418,
+        476,
+        534,
+        604,
+        662
+      ],
+      "charDurationsMs": [
+        35,
+        35,
+        69,
+        35,
+        58,
+        81,
+        59,
+        46,
+        58,
+        58,
+        70,
+        58,
+        220
+      ]
+    },
+    "alignment": {
+      "chars": [
+        "H",
+        "e",
+        "l",
+        "l",
+        "o",
+        " ",
+        "W",
+        "o",
+        "r",
+        "l",
+        "d"
+      ],
+      "charStartTimesMs": [
+        0,
+        70,
+        139,
+        174,
+        232,
+        313,
+        372,
+        418,
+        476,
+        534,
+        604
+      ],
+      "charDurationsMs": [
+        70,
+        69,
+        35,
+        58,
+        81,
+        59,
+        46,
+        58,
+        58,
+        70,
+        278
+      ]
+    }
+  },
+  {
+    "isFinal": null,
+    "normalizedAlignment": null,
+    "alignment": null
+  },
+  {
+    "isFinal": true,
+    "normalizedAlignment": null,
+    "alignment": null
+  }
+]
